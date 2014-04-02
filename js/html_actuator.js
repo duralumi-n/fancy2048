@@ -10,13 +10,13 @@ function HTMLActuator() {
   this.score = 0;
 }
 
-var dogeSayings = ['such good', 'so amaze', 'many points', 'very unstoppable', 'great jorb', 'such playing', 'very good', 'points', 'very gaming', 'such player', 'concern' ,'bewildered',
-'many game', 'so good', 'very scores', 'so scoring', 'so hot right now', 'such playing', 'such matching', 'so matched', 'very matched', 'very neat' ,'such natural',]
+var dogeSayings = ['filthy gaijin', 'goddammit stabby', 'STFU', 'fancy as hell', 'top kek', 'fail',
+'go away', 'u sux', 'such bad', 'u wot m8', 'FOAD', 'o hai', 'thats wrong', 'SPOILER: WALTER DIES', '9 9 9 9 9 9 9 9 9 9', 'HHHHHNNNNNNNNNNNNNNGGGGGGGG' ,]
 
 var ads = [
 
-  '<a href="https://itunes.apple.com/us/app/snack-compass/id646138186?mt=8&ign-mpt=uo%3D4" target="_blank">Like Pizza?</a>',
-  '<a href="http://maxhash.com/doge" target="_blank">Check out everything hashtagged Doge!</a>',
+  '<a href="URL 1" target="_blank">blah blah 2</a>',
+  '<a href="URL 2" target="_blank">blah blah 2</a>',
 ]
 
 HTMLActuator.prototype.actuate = function (grid, metadata) {
