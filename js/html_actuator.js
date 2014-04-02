@@ -10,8 +10,8 @@ function HTMLActuator() {
   this.score = 0;
 }
 
-var dogeSayings = ['filthy gaijin', 'goddammit stabby', 'STFU', 'fancy as hell', 'top kek', 'fail',
-'go away', 'u sux', 'such bad', 'u wot m8', 'FOAD', 'o hai', 'thats wrong', 'SPOILER: WALTER DIES', '9 9 9 9 9 9 9 9 9 9', 'HHHHHNNNNNNNNNNNNNNGGGGGGGG' ,]
+var dogeSayings = ['filthy gaijin', 'goddammit stabby', 'GODDAMMIT STABBY','STFU', 'fancy as hell', 'top kek', 'fail',
+'go away', 'u sux', 'such bad', 'u wot m8', 'FOAD', 'o hai', 'thats wrong', 'SPOILER: WALTER DIES', '9 9 9 9 9 9', 'HHHNNNNNNGGGG' ,]
 
 var ads = [
 
