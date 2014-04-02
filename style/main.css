@@ -164,9 +164,9 @@ h1.title {
     font-weight: bold;
     height: 60px;
     line-height: 60px;
-    -webkit-animation: fade-in-out 600ms ease-in;
-    -moz-animation: fade-in-out 600ms ease-in;
-    animation: fade-in-out 600ms ease-in;
+    -webkit-animation: fade-in-out 900ms ease-in;
+    -moz-animation: fade-in-out 900ms ease-in;
+    animation: fade-in-out 900ms ease-in;
     -webkit-animation-fill-mode: both;
     -moz-animation-fill-mode: both;
     animation-fill-mode: both; }
@@ -491,9 +491,9 @@ hr {
 .tile {
   color: rgba(0,0,0,0);
   position: absolute;
-  -webkit-transition: 100ms ease-in-out;
-  -moz-transition: 100ms ease-in-out;
-  transition: 100ms ease-in-out;
+  -webkit-transition: 50ms ease-in-out;
+  -moz-transition: 50ms ease-in-out;
+  transition: 50ms ease-in-out;
   -webkit-transition-property: -webkit-transform;
   -moz-transition-property: -moz-transform;
   transition-property: transform; }
