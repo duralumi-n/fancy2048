@@ -164,9 +164,9 @@ h1.title {
     font-weight: bold;
     height: 60px;
     line-height: 60px;
-    -webkit-animation: fade-in-out 900ms ease-in;
-    -moz-animation: fade-in-out 900ms ease-in;
-    animation: fade-in-out 900ms ease-in;
+    -webkit-animation: fade-out 900ms ease-in;
+    -moz-animation: fade-out 900ms ease-in;
+    animation: fade-out 900ms ease-in;
     -webkit-animation-fill-mode: both;
     -moz-animation-fill-mode: both;
     animation-fill-mode: both; }
@@ -505,17 +505,17 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #f0f url('http://www.imarvintpa.com/Mapping/Terrain/Stones/Moria%20Stone-d.png');
+    background: #28f url('http://www.imarvintpa.com/Mapping/Terrain/Stones/Moria%20Stone-d.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     
   .tile.tile-4 .tile-inner {
-    background: #f0f url('http://cdn.bulbagarden.net/upload/thumb/0/02/129Magikarp.png/250px-129Magikarp.png');
+    background: #4fa url('http://cdn.bulbagarden.net/upload/thumb/0/02/129Magikarp.png/250px-129Magikarp.png');
     background-size: cover;    
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     
   .tile.tile-8 .tile-inner {
-    background: #f0f url('http://i3.kym-cdn.com/photos/images/original/000/672/186/8a5.png');
+    background: #5c2 url('http://i3.kym-cdn.com/photos/images/original/000/672/186/8a5.png');
     background-size: cover;}
     
   .tile.tile-16 .tile-inner {
