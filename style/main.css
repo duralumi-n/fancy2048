@@ -108,43 +108,43 @@ h1.title {
       opacity: 0; } }
       
   @-webkit-keyframes hover-change {
-      0%   {color: cyan;}
-      25%  {color: pink;}
+      0%   {color: blue;}
+      25%  {color: red;}
       50%  {color: yellow;}
-      75%  {color: red;}
-      100% {color: lime;} }
+      100% {color: green;} }
 
   @-moz-keyframes hover-change {
-      0%   {color: cyan;}
-      25%  {color: pink;}
+      0%   {color: blue;}
+      25%  {color: red;}
       50%  {color: yellow;}
-      75%  {color: red;}
-      100% {color: lime;} }
+      100% {color: green;} }
       
   @keyframes hover-change {
-      0%   {color: cyan;}
-      25%  {color: pink;}
+      0%   {color: blue;}
+      25%  {color: red;}
       50%  {color: yellow;}
-      75%  {color: red;}
-      100% {color: lime;} }
+      100% {color: green;} }
       
   @-webkit-keyframes background-gradient-change {
-      0%   {background: #cff;}
-      33%  {background: #fcf;}
-      66%  {background: #ffc;}
-      100%   {background: #cff;}}
+      0%   {background: #7cfc00;}
+      25%  {background: #C71585;}
+      50%  {background: #ff4500;}
+      75%  {background: #ee82ee;}
+      100% {background: #ff8c00;}}
 
   @-moz-keyframes background-gradient-change {
-      0%   {background: #dff;}
-      33%  {background: #fdf;}
-      66%  {background: #ffd;}
-      100%   {background: #dff;}}
+      0%   {background: #7cfc00;}
+      25%  {background: #C71585;}
+      50%  {background: #ff4500;}
+      75%  {background: #ee82ee;}
+      100% {background: #ff8c00;}}
       
   @keyframes background-gradient-change {
-      0%   {background: #dff;}
-      33%  {background: #fdf;}
-      66%  {background: #ffd;}
-      100%   {background: #dff;}}      
+      0%   {background: #7cfc00;}
+      25%  {background: #C71585;}
+      50%  {background: #ff4500;}
+      75%  {background: #ee82ee;}
+      100% {background: #ff8c00;}}
       
   a:hover {
          -webkit-animation: hover-change linear 0.1s infinite;
