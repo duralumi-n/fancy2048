@@ -7,9 +7,9 @@ html, body {
 /*  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;*/
   font-family: 'Comic Sans', 'Comic Sans', Chalkboard, Helvetica, Arial, sans-serif;
   font-size: 18px; 
-  -webkit-animation: background-gradient-change linear 6s infinite alternate;
-  -moz-animation: background-gradient-change linear 6s infinite alternate;
-  -moz-animation: background-gradient-change linear 6s infinite alternate; }
+  -webkit-animation: background-gradient-change linear 1s infinite alternate;
+  -moz-animation: background-gradient-change linear 1s infinite alternate;
+  animation: background-gradient-change linear 1s infinite alternate; }
 
 body {
   margin: 80px 0 0 0; }
@@ -164,9 +164,9 @@ h1.title {
     font-weight: bold;
     height: 60px;
     line-height: 60px;
-    -webkit-animation: fade-out 900ms ease-in;
-    -moz-animation: fade-out 900ms ease-in;
-    animation: fade-out 900ms ease-in;
+    -webkit-animation: fade-in-out 1200ms ease-in;
+    -moz-animation: fade-in-out 1200ms ease-in;
+    animation: fade-in-out 1200ms ease-in;
     -webkit-animation-fill-mode: both;
     -moz-animation-fill-mode: both;
     animation-fill-mode: both; }
