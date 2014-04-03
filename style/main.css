@@ -500,6 +500,7 @@ hr {
   -webkit-transition-property: -webkit-transform;
   -moz-transition-property: -moz-transform;
   transition-property: transform; }
+  /*all pics from http://imgur.com/a/khZAd*/
   .tile .tile-inner {
     border-radius: 3px;
     background: #eee4da;
