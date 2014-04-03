@@ -509,54 +509,54 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #28f url('http://www.imarvintpa.com/Mapping/Terrain/Stones/Moria%20Stone-d.png');
+    background: #28f url('http://i.imgur.com/HheQDA5.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     
   .tile.tile-4 .tile-inner {
-    background: #4fa url('http://cdn.bulbagarden.net/upload/thumb/0/02/129Magikarp.png/250px-129Magikarp.png');
+    background: #4fa url('http://i.imgur.com/S0xc2Bi.png');
     background-size: cover;    
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     
   .tile.tile-8 .tile-inner {
-    background: #5c2 url('http://i3.kym-cdn.com/photos/images/original/000/672/186/8a5.png');
+    background: #5c2 url('http://i.imgur.com/MtizJYx.png');
     background-size: cover;}
     
   .tile.tile-16 .tile-inner {
-    background: #f0f url('http://fc01.deviantart.net/fs71/f/2012/199/1/e/fancy_octopus_by_arseniic-d57ra2s.png');
+    background: #f0f url('http://i.imgur.com/UX7U0WI.png');
     background-size: cover;}
     
   .tile.tile-32 .tile-inner {
-    background: #f0f url('http://albump.exteen.com/images/harui/haruhi04.jpg');
+    background: #f0f url('http://i.imgur.com/7gZ1wHd.jpg');
     background-size: cover;}
     
   .tile.tile-64 .tile-inner {
-    background: #f0f url('http://zef.me/wp-content/uploads/2008/02/funny-cat.jpg');
+    background: #f0f url('http://i.imgur.com/iQQ1rfw.jpg');
     background-size: cover;}
     
   .tile.tile-128 .tile-inner {
-    background: #f0f url('http://img3.wikia.nocookie.net/__cb20130307050701/mlp/images/4/4b/Rainbow_Dash_Wonderbolt_fantasy_cropped_S1E3.png');
+    background: #f0f url('http://i.imgur.com/WrbUZ8R.png');
     background-size: cover;}
    
   .tile.tile-256 .tile-inner {
-    background: #f0f url('http://img1.wikia.nocookie.net/__cb20130506023844/unanything/images/5/56/Rick_Astley.jpg');
+    background: #f0f url('http://i.imgur.com/NNTtxVF.jpg');
     background-size: cover;}
     
   .tile.tile-512 .tile-inner {
-    background: #f0f url('http://wiki.teamfortress.com/w/images/c/c0/User-_EvilDeadFan_Spy_Crab_Strut_GIF_by_Flufflesthepancake.gif');
+    background: #f0f url('http://i.imgur.com/YZSkba7.gif');
     background-size: cover;}
     
   .tile.tile-1024 .tile-inner {
-    background: #f0f url('http://fc08.deviantart.net/fs70/i/2013/301/8/f/doge_by_ferox_auru-d6s5czl.png');
+    background: #f0f url('http://i.imgur.com/z2qDn9g.png');
     background-size: cover;}
    
   .tile.tile-2048 .tile-inner {
-    background: #f0f url('https://pbs.twimg.com/profile_images/2205815165/the_game.png');
+    background: #f0f url('http://i.imgur.com/0eDzpnB.png');
     background-size: cover;}
 	
   .tile.tile-super .tile-inner {
 
-    background: #f0f url('http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-derp-212.gif');
+    background: #f0f url('http://i.imgur.com/CjcV3U2.gif');
     background-size: cover;    
     font-size: 30px; }
     @media screen and (max-width: 480px) {
