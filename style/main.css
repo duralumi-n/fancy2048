@@ -7,9 +7,9 @@ html, body {
 /*  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;*/
   font-family: 'Comic Sans', 'Comic Sans', Chalkboard, Helvetica, Arial, sans-serif;
   font-size: 18px; 
-  -webkit-animation: background-gradient-change linear 200ms infinite alternate;
-  -moz-animation: background-gradient-change linear 200ms infinite alternate;
-  animation: background-gradient-change linear 200ms infinite alternate; }
+  -webkit-animation: background-gradient-change linear 1s infinite alternate;
+  -moz-animation: background-gradient-change linear 1s infinite alternate;
+  animation: background-gradient-change linear 1s infinite alternate; }
 
 body {
   margin: 80px 0 0 0; }
@@ -109,21 +109,24 @@ h1.title {
       
   @-webkit-keyframes hover-change {
       0%   {color: cyan;}
-      25%  {color: magenta;}
+      25%  {color: pink;}
       50%  {color: yellow;}
-      100% {color: white;} }
+      75%  {color: red;}
+      100% {color: lime;} }
 
   @-moz-keyframes hover-change {
       0%   {color: cyan;}
-      25%  {color: magenta;}
+      25%  {color: pink;}
       50%  {color: yellow;}
-      100% {color: white;} }
+      75%  {color: red;}
+      100% {color: lime;} }
       
   @keyframes hover-change {
       0%   {color: cyan;}
-      25%  {color: magenta;}
+      25%  {color: pink;}
       50%  {color: yellow;}
-      100% {color: white;} }
+      75%  {color: red;}
+      100% {color: lime;} }
       
   @-webkit-keyframes background-gradient-change {
       0%   {background: #cff;}
